@@ -1,0 +1,2 @@
+# ReduxSimplestart
+first redux page
